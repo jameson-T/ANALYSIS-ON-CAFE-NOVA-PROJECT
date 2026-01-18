@@ -37,6 +37,7 @@ ORD_630508 |CUST_075	  |Drinks                |   	uknown	   |$3   |2	         |
 - Dashbord
 
 
+![dashbord caf3 ](https://github.com/user-attachments/assets/7b3a665f-59ae-44f3-aca9-e8a88d6e9686)
 
 ![CafeNova Dashboard ss](https://github.com/user-attachments/assets/7df38e01-697b-479a-b96a-729436764a09)
 
@@ -57,3 +58,4 @@ cretae pivot table as follows:
 
 
 ### Key insigts
+#Collect and clean rwa data 
