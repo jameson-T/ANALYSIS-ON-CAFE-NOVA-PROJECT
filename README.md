@@ -57,5 +57,28 @@ cretae pivot table as follows:
 ![PIV 2](https://github.com/user-attachments/assets/ba627dcc-54d3-4012-a42d-cc92a2f3b1bd) 
 
 
-### Key insigts
-#Collect and clean rwa data 
+### 📊 Key Insights
+- The business generated $340,618 in total sales from 17,534 orders, indicating strong overall transaction volume.
+  
+- Sales performance declined slightly in 2023 compared to 2022, suggesting a modest reduction in customer demand or order frequency year-over-year.
+  
+- Only 101 unique customers contributing to all orders, the business relies heavily on repeat customers, highlighting strong customer loyalty but also a potential risk due to a narrow customer base.
+
+- Monthly sales showed moderate seasonality, with peaks in March and the final quarter of the year, while February recorded the lowest sales.
+
+- Grilled Chicken emerged as the top-selling product by revenue, followed by Pasta Alfredo and Steak, showing a clear customer preference for premium main dishes.
+
+- Main Dishes had the highest share of total sales, significantly outperforming other categories such as drinks, sides, and desserts.
+
+- Cash was the most commonly used payment method, though credit cards and digital wallets recorded nearly equal usage, indicating adoption of cashless payments.
+
+- High-frequency items such as side salads, water, and ice cream were purchased often but contributed less to overall revenue, suggesting they function mainly as add-on products.
+
+### 📌 Business Recommendations
+- Prioritize marketing and promotions for top-performing main dishes to maximize revenue.
+
+- Introduce Use  of discounts or bundles during low-performing months to stabilize monthly sales.
+
+- Leverage add-on items by bundling them with main meals to increase average order value.
+
+- Invest in advertsing creating awareness for the cafe, focusing in incresing number of customer. 
