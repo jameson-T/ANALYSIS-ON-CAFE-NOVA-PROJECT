@@ -1,6 +1,16 @@
 # ANALYSIS-ON-CAFE-NOVA-PROJECT
 Excel | Retail Sales Data | From Raw Data to Business Insight
 
+### Table of Content 
+- [project overview](#project-overview)
+- [Tools & skills](tools-&-skills)
+- [Data set overview](#data-set-overview)
+- [Data cleaning processes](#data-cleaning-processes)
+- [Pivot Tables](#pivot-tables)
+- [Key insights](key-insights)
+- [Business Recommendations](business-recommendations)
+
+
 ### Project Overview
 This project is about a fast growing casual dinning chain called CAFE NOVA offering a wide range of meal and beverages across multiple outlets. While sales have grown steadily, the management team is unsure of what items, categories, and customer segments are driving the most value or where they’re losing money,i was contacted as a Data Analyst to clean, analyse, and deliver insights using historical sales data.My goal was to uncover what’s working, what’s not, and make  
 clear recommendations all presented in a professional dashboard.
